@@ -1,0 +1,9 @@
+# python
+__pycache__
+
+# data
+*.txt
+*.json
+
+# outputs
+*.png
